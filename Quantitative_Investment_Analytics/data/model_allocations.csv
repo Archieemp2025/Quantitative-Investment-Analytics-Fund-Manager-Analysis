@@ -1,0 +1,16 @@
+model,asset_class,weight_pct
+Growth Model,Australian Equities,32
+Growth Model,Global Equities,38
+Growth Model,Fixed Income,12
+Growth Model,Multi-Asset,10
+Growth Model,Real Assets,8
+Balanced Model,Australian Equities,20
+Balanced Model,Global Equities,25
+Balanced Model,Fixed Income,30
+Balanced Model,Multi-Asset,20
+Balanced Model,Real Assets,5
+Defensive Model,Australian Equities,8
+Defensive Model,Global Equities,10
+Defensive Model,Fixed Income,58
+Defensive Model,Multi-Asset,20
+Defensive Model,Real Assets,4
